@@ -14,3 +14,4 @@ Education
 *********
 Tufts University, `Department of Anthropology
 <http://ase.tufts.edu/anthropology/>`_.
+BA in Anthropology, Magna Cuma Loude with Thesis Honors
