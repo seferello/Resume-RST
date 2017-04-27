@@ -12,5 +12,5 @@ Goals
 
 Education
 *********
-
-* :xref:`Tufts Department of Anthropology`
+Tufts University, `Department of Anthropology
+<http://ase.tufts.edu/anthropology/>`_.
